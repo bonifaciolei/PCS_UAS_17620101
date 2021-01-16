@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/upcoming_match"
+        android:icon="@drawable/ic_action_next_match"
+        android:title="@string/upcoming_match" />
+
+    <item
+        android:id="@+id/match_result"
+        android:icon="@drawable/ic_action_prev_match"
+        android:title="@string/match_result"/>
+
+    <item
+        android:id="@+id/saved_match"
+        android:icon="@drawable/ic_favorites"
+        android:title="@string/saved_match"/>
+
+</menu>

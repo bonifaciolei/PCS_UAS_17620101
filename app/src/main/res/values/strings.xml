@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Boni Football Score Viewer</string>
+    <string name="match_result">Match Result</string>
+    <string name="upcoming_match">Upcoming Match</string>
+    <string name="saved_match">Saved Match</string>
+    <string name="date_example">Sen, 05 Agus 2018</string>
+    <string name="club_example">Arsenal</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--id for item prev_match recyclerview-->
+    <item name="date_match_item" type="id"/>
+    <item name="home_match_item" type="id"/>
+    <item name="home_score_item" type="id"/>
+    <item name="away_match_item" type="id"/>
+    <item name="away_score_item" type="id"/>
+    <item name="rv_prev_match" type="id"/>
+    <item name="rv_pb_prev_match" type="id"/>
+    <item name="tv_vs_item" type="id"/>
+
+    <!--Detail Fragment-->
+    
+    <item name="df_home_goal" type="id"/>
+    <item name="df_away_goal" type="id"/>
+    <item name="stadium" type="id"/>
+    <item name="stadium_country" type="id"/>
+
+
+
+
+</resources>
